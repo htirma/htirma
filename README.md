@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://amrith.co/images/og.png" alt="@amrith" width="680" />
+<a href="https://amrith.co" target="_blank"><img src="https://amrith.co/images/og.png" alt="@amrith" width="680" /></a>
 
 </div>
 
