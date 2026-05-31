@@ -19,7 +19,12 @@ I'm a builder and a community and organic-growth generalist. For ten years I was
 
 ### Past lives
 
-[Product Hunt](https://producthunt.com/@amrith) (community team to Head of Social; grew Twitter from 200K to 400K+, organic), Opal, Stoic, Envision, Feathrd, and others.
+- **[Feathrd](https://feathrd.co)** (2014–2017): where it started. A high school side project that became a community of 100+ student makers across 15 countries, launching on Product Hunt.
+- **[Product Hunt](https://producthunt.com/@amrith)** (2017–2020): community team to Head of Social. Grew Twitter from 200K to 400K+ followers, organic, zero spend.
+- **[Opal](https://opalapp.com)** (2020–2022): founding team, first hire doing things that don't scale. Now a focus app used by millions.
+- **[Stoic](https://getstoic.com)** (2023–2024): first growth hire at the journaling app (YC S19).
+- **[Envision](https://letsenvision.com)** (2025–2026): marketing generalist for smart glasses and assistive tech for people who are blind or have low vision.
+- and others.
 
 ### Say hi
 
