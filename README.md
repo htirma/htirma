@@ -4,7 +4,7 @@
 
 </div>
 
-> I spent a decade growing communities for consumer startups including Product Hunt. Now I build my own ideas under [Ekpani](https://github.com/ekpani).
+> I spent a decade growing communities for consumer startups including Product Hunt. Now I build my own ideas under [Dusk Research](https://github.com/duskresearch).
 
 I'm a builder and a community and organic-growth generalist. For ten years I was the first non-technical hire across consumer tech, known for organic, zero-spend growth, community, brand, ASO/SEO, and product-led growth. I think of myself as the bridge between the team building a product and the people it's for: getting them to care, and turning them into the product's best marketers. These days I build my own consumer products, for the love of the game.
 
@@ -14,7 +14,7 @@ I'm a builder and a community and organic-growth generalist. For ten years I was
 - **[Timebase](https://timebase.me)**: timezones made simple. A calmer way to visualize and plan across time zones.
 - **[Samooh](https://samooh.com)**: the long game. A community for Indian-origin founders building global products.
 
-And more under **[Ekpani](https://github.com/ekpani)**, my indie lab.
+And more under **[Dusk Research](https://github.com/duskresearch)**, my software lab.
 
 ### Past lives
 
